@@ -1,0 +1,19 @@
+body{
+    background-color: #d3d3d3;
+    color: 
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: #ffffff;
+}
+
+a:hover, a:active{
+    background-color: #20b2aa;
+    color: #FFF;    
+}
+.card{
+	float: card;
+	border: 5px solid lightsteelblue;
+	padding: 3px;
+}
